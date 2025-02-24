@@ -68,7 +68,7 @@ Conclusion
 Testing Modbus RTU connections doesn't have to be complicated. With this tool, you can focus on what matters most: ensuring reliable communication in your industrial systems. Try it out and let me know what you think!
 
 Call to Action
-Download the Tool: [GitHub Link]
+Download the Tool: https://github.com/eugeniogigante/ModBusRTUTool/tree/a9613d552cb7e87625fa74c55adca7e49b4e09a2
 
 Connect with Me: Let's discuss industrial automation and Modbus!
 
